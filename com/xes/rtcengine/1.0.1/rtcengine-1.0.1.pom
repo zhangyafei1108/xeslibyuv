@@ -3,8 +3,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.xes</groupId>
-  <artifactId>xesrtcEngine</artifactId>
-  <version>1.0.0</version>
+  <artifactId>rtcengine</artifactId>
+  <version>1.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
